@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**JME008/JME008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hey, I'm Jannis from **germany**, learning coding for web development. I use it both for private goals but also for a future job or maybe a side gig. 
+
+Interests of mine are:
+
+- 👨‍🍳 cooking, i'm a trained chef
+- 🎮 gaming, curently playing ☢**Fallout Tale of Two Wastelands**☢
+- 📼 some editing for Youtube
+- 💸 interested in keynesian economics
+
+- 🤔 totaly new to code but learning 
+
+
