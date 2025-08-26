@@ -9,8 +9,6 @@ Interests of mine are:
 - 👨‍🍳 cooking, i'm a trained chef
 - 🎮 gaming
 - 📼 some editing for Youtube
-- 💸 interested in keynesian economics
-
 - 🤔 totaly new to code but learning 
 
 
